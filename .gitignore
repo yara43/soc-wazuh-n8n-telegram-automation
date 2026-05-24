@@ -1,0 +1,13 @@
+.env
+*.key
+*.pem
+*.p12
+*.crt
+*.tar
+*.tar.gz
+*.zip
+wazuh-install-files/
+wazuh-install-files.tar
+node_modules/
+.DS_Store
+Thumbs.db
