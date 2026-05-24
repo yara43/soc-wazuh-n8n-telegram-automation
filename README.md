@@ -135,9 +135,7 @@ The strongest evidence set for this project is:
 - Terminal output showing Wazuh agents active
 - Terminal output showing Wazuh alert JSON for Windows and Kali detections
 
-## Security Notes
 
-Do not upload real secrets.
 
 Before publishing this repository publicly:
 
@@ -171,7 +169,6 @@ reports/
 - [GitHub publishing checklist](docs/github-publishing-checklist.md)
 - [Final project report](reports/final-project-report.md)
 
-## CV Description
 
 Built an automated SOC incident response lab using Wazuh SIEM and n8n SOAR-style workflows to detect, enrich, triage, and notify on security events including Windows failed logins and SSH authentication attacks.
 
