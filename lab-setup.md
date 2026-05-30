@@ -90,7 +90,7 @@ After cleanup, the disk returned to a usable state.
 
 ## 5. Lab Evidence
 
-Useful commands for documentation screenshots:
+
 
 ```bash
 ip -br a
