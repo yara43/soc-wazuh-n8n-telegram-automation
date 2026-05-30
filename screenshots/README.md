@@ -18,14 +18,6 @@ Important: blur or crop any secrets before uploading screenshots publicly.
 | `08-terminal-kali-ssh-alert-json.png` | Wazuh alert JSON contains SSH failed login alerts |
 | `09-custom-n8n-log.png` | Wazuh custom integration called n8n webhook |
 
-## Optional screenshots
-
-| File name | What it proves |
-| --- | --- |
-| `10-wazuh-threat-hunting.png` | Wazuh dashboard view for detections |
-| `11-wazuh-dashboard-agents.png` | Dashboard agent summary |
-| `12-n8n-published-workflow.png` | Workflow was published |
-| `13-abuseipdb-api-key-created-redacted.png` | AbuseIPDB integration setup, with key hidden |
 
 ## Screenshots already demonstrated during the lab
 
